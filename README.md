@@ -21,8 +21,8 @@ part 1: EDA and data pre-processing
 2. Analyzing the training annotation file
 3. Analyzing the training images
 
-part 2: Baseline model - next notebook <br>
-part 3: PyTorch CNN models - next notebook
+part 2: Baseline model - in progress <br>
+part 3: PyTorch CNN models - in progress
 
 #### Sources: 
 [1] Kaggle competiton *Planet: Understanding the Amazon from Space*, section Data: https://www.kaggle.com/competitions/planet-understanding-the-amazon-from-space/data <br> 
