@@ -21,17 +21,11 @@ part 1: EDA and data pre-processing
 2. Analyzing the training annotation file
 3. Analyzing the training images
 
-part 2: Baseline model - in progress <br>
+part 2: Baseline model
+1. Feature engineering
+2. Stratified training/validation data split
+3. Classification
+4. Accuracy assessment
+
 part 3: PyTorch CNN models - in progress
 
-#### Sources: 
-[1] Kaggle competiton *Planet: Understanding the Amazon from Space*, section Data: https://www.kaggle.com/competitions/planet-understanding-the-amazon-from-space/data <br> 
-[2] Kaggle API usage advices: https://stackoverflow.com/questions/55934733/documentation-for-kaggle-api-within-python <br>
-[3] TorrentP Python library's GitHub page: https://github.com/iw4p/torrentp <br>
-[4] Kaggle competiton *Planet: Understanding the Amazon from Space*, section Discussion: https://www.kaggle.com/competitions/planet-understanding-the-amazon-from-space/discussion <br> 
-[5] Kaggle dataset *planets_dataset*: https://www.kaggle.com/datasets/nikitarom/planets-dataset <br>
-[6] Introductory Jupyter Notebook presenting information on the source data; prepared by Planet: https://github.com/planetlabs/planet-amazon-deforestation/blob/master/planet_chip_examples.ipynb <br>
-[7] multiprocessing Python library's GitHub page: https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing <br>
-[8] Jason Brownlee's SuperFastPython blog post: https://superfastpython.com/numpy-multithreaded-parallelism/ <br>
-[9] dask Python library's GitHub page: https://docs.dask.org/en/stable/ <br>
-[10] segment-anything Python library's GitHub page: https://github.com/facebookresearch/segment-anything
